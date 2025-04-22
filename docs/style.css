@@ -1,0 +1,29 @@
+body {
+    background: #CBDBFF;
+    color: black;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    background: #FFFFFF;
+    padding: 25px;
+    border-radius: 20px;
+    text-align: center;
+}
+h2{
+    color: #1F1F1F;
+    padding-bottom : 30px;
+    font-size: 40px;
+}
+button{
+    background: #CBDBFF;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 20px;
+    border: 1px solid #E1E1E1;
+}
+
+
